@@ -1,0 +1,36 @@
+nav {
+    background-color:pink;
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+}
+
+nav li {
+    display: inline-block;
+  }
+
+  nav ul li {
+    margin: 15px;
+    gap: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: palevioletred;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 50px;
+    text-align: center;
+    height: 80px;
+    color: white;
+    background-color: palevioletred ;
+    margin: 0;
+}
